@@ -1,8 +1,7 @@
 # Electromagnetismo1
-Repositorio para la clase de Electromagnetismo1
 Este conjunto de archivos alberga un script en Python diseñado para abordar la ecuación de Laplace en un sistema rectangular mediante enfoques numéricos y una solución analítica. Se incluyen diversas funciones destinadas a calcular el potencial eléctrico y representar visualmente los resultados obtenidos.
 # Para ejecutar el codigo
-Descarga el archivo CODIGO TAREA 3.ipynb
+Descarga el archivo CODIGO TAREA 3.ipynb.
 Después, abre un entorno de desarrollo de Python, como Jupyter Notebook, o ejecuta el script main.py para visualizar los resultados obtenidos.
 # Uso del Programa
 
